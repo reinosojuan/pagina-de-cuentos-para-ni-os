@@ -1,2 +1,2 @@
-# pagina-de-cuentos-para-ni-os
+# pagina-de-cuentos-para-niños
 Es una pagina creada con cuentos para niños 
